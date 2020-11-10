@@ -1,0 +1,30 @@
+h3{
+    color:aqua
+    font-size=30px;
+}
+
+#titulo{
+    color: pink;
+    font-size: 80px;
+    font-weight: bold;
+}
+.corpo-do-texto{
+    color:darkorchid;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+
+}
+a{
+    text-decoration: none;
+}
+.caixa{
+    color:#71ebf0;
+    background columns: #000000;
+    border:5px dashed #ffff00;
+    text-align:center;
+    border radius: 100px;
+}
+body{
+    background-color: #8f8f8f;
+}
